@@ -1,0 +1,9 @@
+{
+    "name": "websitecubed/file-data-manager",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
